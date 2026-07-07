@@ -1,0 +1,27 @@
+{
+  "identifier": "storekit",
+  "nonRenewingSubscriptions": [],
+  "products": [
+    {
+      "displayPrice": "4.99",
+      "familyShareable": false,
+      "internalID": "prod1",
+      "localizations": [
+        {
+          "description": "Annual tax-summary export and receipt photo attachments",
+          "displayName": "Donationlog Pro",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "donationlog_pro",
+      "referenceName": "Donationlog Pro",
+      "type": "NonConsumable"
+    }
+  ],
+  "settings": {},
+  "subscriptionGroups": [],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
