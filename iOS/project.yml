@@ -35,7 +35,6 @@ targets:
     platform: iOS
     sources:
       - path: DonationlogTests
-      - path: Donationlog.storekit
     dependencies:
       - target: Donationlog
     settings:
